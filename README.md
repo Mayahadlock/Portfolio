@@ -8,6 +8,6 @@ Detaild description
 
 ! [Running Calculator] ()
 
-*[Windows EXE]()
+*[Windows EXE](https://github.com/Mayahadlock/Portfolio/blob/main/src/Calculator/windows-amd64.zip)
 *[Mac05X]()
 *[Source Code](https://github.com/Mayahadlock/Portfolio/blob/main/src/Calculator/readme.md)

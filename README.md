@@ -13,4 +13,4 @@ basic calculator is a simple but reliable tool that I created to make solving ma
 *[Mac05X](https://github.com/Mayahadlock/Portfolio/blob/main/src/Calculator/macos-x86_64.zip)
 *[Source Code](https://github.com/Mayahadlock/Portfolio/blob/main/src/Calculator/readme.md)
 
-![UML](https://github.com/Mayahadlock/Portfolio/blob/main/images/CALC%20UML.drawio.png)
+![UML](https://github.com/Mayahadlock/Portfolio/blob/main/images/CALCUML>jpg)
